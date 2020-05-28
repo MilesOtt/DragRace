@@ -6,7 +6,7 @@ My goal is to teach myself new skills while playing around with RuPaul's Drag Ra
 
 RuPaul's Drag Race is a reality show competition in which drag queens must use their charisma, uniqueness, nerve, and talent to rise above the rest in hopes of being crowned the winner each season. Each episode is usually composed of a mini-challenge (often involving quick drag), a maxi-challenge (including longer form acting, singing, dancing, sewing, comedy, etc challenges), and a themed runway.  The judges then deliberate, RuPaul decides who the tops and bottoms are, a lypsynch is performed, and one or more of the queens is sent home, while one or more of the queens wins.  Since season 2 when Shangela was the first queen to be eliminated, each eliminated queen has written a departing message on a mirror in the werkroom in lipstick. 
 
-![alt text](https://ewedit.files.wordpress.com/2018/12/Dec-24-2018-03-05-52.gif, "Farrah Moan After Her Ellimination")
+![alt text](https://ewedit.files.wordpress.com/2018/12/Dec-24-2018-03-05-52.gif "Farrah Moan After Her Ellimination")
 
 
 
