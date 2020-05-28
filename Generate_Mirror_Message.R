@@ -7,13 +7,18 @@
 
 
 #----Loading in Libraries
+
+#install.packages("tensorflow")
+library(tensorflow)
+install_tensorflow()
 library(dplyr)
 library(tidyr)
+library(tidyverse)
 library(stringr)
 library(readr)
 library(keras)
 library(tokenizers)
-library(tensorflow)
+use_condaenv("r-tensorflow")
 #--- Getting the data set up
 
 mirror_data <- 
